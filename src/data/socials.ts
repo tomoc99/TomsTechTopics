@@ -6,12 +6,7 @@ export const socials = [
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com/tomoc99',
     icon: 'mdi:github'
   },
-  {
-    name: 'Instagram',
-    url: 'https://instagram.com',
-    icon: 'mdi:instagram'
-  }
 ]
